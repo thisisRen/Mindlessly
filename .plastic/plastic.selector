@@ -1,0 +1,4 @@
+repository "Mindlessly@PTIT@cloud"
+  path "/"
+    br "/main"
+    co "/main"

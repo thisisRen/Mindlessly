@@ -1,0 +1,1291 @@
+fileFormatVersion: 2
+guid: e14a2b3a3b63bd64a9001915cbe4ef07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7717182348551123086
+    second: TopDownHouse_DoorsAndWindows_0
+  - first:
+      213: 6503517531539134617
+    second: TopDownHouse_DoorsAndWindows_1
+  - first:
+      213: -1515499433755314334
+    second: TopDownHouse_DoorsAndWindows_2
+  - first:
+      213: -5281535523650951238
+    second: TopDownHouse_DoorsAndWindows_3
+  - first:
+      213: 8038549287730599701
+    second: TopDownHouse_DoorsAndWindows_4
+  - first:
+      213: -9005783509836592296
+    second: TopDownHouse_DoorsAndWindows_5
+  - first:
+      213: -5752038776589987482
+    second: TopDownHouse_DoorsAndWindows_6
+  - first:
+      213: 1939865372455550518
+    second: TopDownHouse_DoorsAndWindows_7
+  - first:
+      213: -7625727599137440512
+    second: TopDownHouse_DoorsAndWindows_8
+  - first:
+      213: 3677442445261750078
+    second: TopDownHouse_DoorsAndWindows_9
+  - first:
+      213: 909746823607978259
+    second: TopDownHouse_DoorsAndWindows_10
+  - first:
+      213: 2420103983983623380
+    second: TopDownHouse_DoorsAndWindows_11
+  - first:
+      213: -3674959421892583349
+    second: TopDownHouse_DoorsAndWindows_12
+  - first:
+      213: 6164854706100804260
+    second: TopDownHouse_DoorsAndWindows_13
+  - first:
+      213: 6306706318567073795
+    second: TopDownHouse_DoorsAndWindows_14
+  - first:
+      213: -1902491642336345318
+    second: TopDownHouse_DoorsAndWindows_15
+  - first:
+      213: 8144711280824827234
+    second: TopDownHouse_DoorsAndWindows_16
+  - first:
+      213: -5126247195406283581
+    second: TopDownHouse_DoorsAndWindows_17
+  - first:
+      213: -1089859871880136543
+    second: TopDownHouse_DoorsAndWindows_18
+  - first:
+      213: -2988395990355079769
+    second: TopDownHouse_DoorsAndWindows_19
+  - first:
+      213: 5232951604682707022
+    second: TopDownHouse_DoorsAndWindows_20
+  - first:
+      213: -7888396172825992677
+    second: TopDownHouse_DoorsAndWindows_21
+  - first:
+      213: 4324738487311779256
+    second: TopDownHouse_DoorsAndWindows_22
+  - first:
+      213: 2171911853425486546
+    second: TopDownHouse_DoorsAndWindows_23
+  - first:
+      213: -7994531601563491741
+    second: TopDownHouse_DoorsAndWindows_24
+  - first:
+      213: 1956232547396228299
+    second: TopDownHouse_DoorsAndWindows_25
+  - first:
+      213: -935961378956429963
+    second: TopDownHouse_DoorsAndWindows_26
+  - first:
+      213: -4657650668036915483
+    second: TopDownHouse_DoorsAndWindows_27
+  - first:
+      213: -1337162679101154079
+    second: TopDownHouse_DoorsAndWindows_28
+  - first:
+      213: 9065940428380802629
+    second: TopDownHouse_DoorsAndWindows_29
+  - first:
+      213: 1541362620282913716
+    second: TopDownHouse_DoorsAndWindows_30
+  - first:
+      213: 4050729031936300594
+    second: TopDownHouse_DoorsAndWindows_31
+  - first:
+      213: 5340928862705725485
+    second: TopDownHouse_DoorsAndWindows_32
+  - first:
+      213: -4724767319841313761
+    second: TopDownHouse_DoorsAndWindows_33
+  - first:
+      213: 1467887354281067969
+    second: TopDownHouse_DoorsAndWindows_34
+  - first:
+      213: -5962752967062260370
+    second: TopDownHouse_DoorsAndWindows_35
+  - first:
+      213: 8718691831939037131
+    second: TopDownHouse_DoorsAndWindows_36
+  - first:
+      213: 6827014250274483017
+    second: TopDownHouse_DoorsAndWindows_37
+  - first:
+      213: 8796053191613168597
+    second: TopDownHouse_DoorsAndWindows_38
+  - first:
+      213: -519107838727315524
+    second: TopDownHouse_DoorsAndWindows_39
+  - first:
+      213: -8690766190466764825
+    second: TopDownHouse_DoorsAndWindows_40
+  - first:
+      213: -1164569112177462
+    second: TopDownHouse_DoorsAndWindows_41
+  - first:
+      213: -4384146785245162635
+    second: TopDownHouse_DoorsAndWindows_42
+  - first:
+      213: -8863493086635433961
+    second: TopDownHouse_DoorsAndWindows_43
+  - first:
+      213: -2867500010375099685
+    second: TopDownHouse_DoorsAndWindows_44
+  - first:
+      213: 946539734004871372
+    second: TopDownHouse_DoorsAndWindows_45
+  - first:
+      213: 2213639942194853090
+    second: TopDownHouse_DoorsAndWindows_46
+  - first:
+      213: -4800960129812478022
+    second: TopDownHouse_DoorsAndWindows_47
+  - first:
+      213: 2108038150786355651
+    second: TopDownHouse_DoorsAndWindows_48
+  - first:
+      213: -3924941096112838983
+    second: TopDownHouse_DoorsAndWindows_49
+  - first:
+      213: -7399709884847787348
+    second: TopDownHouse_DoorsAndWindows_50
+  - first:
+      213: -6108441261309878793
+    second: TopDownHouse_DoorsAndWindows_51
+  - first:
+      213: -1912126364372068537
+    second: TopDownHouse_DoorsAndWindows_52
+  - first:
+      213: 1958369143294378309
+    second: TopDownHouse_DoorsAndWindows_53
+  - first:
+      213: -7577582471647784132
+    second: TopDownHouse_DoorsAndWindows_54
+  - first:
+      213: -2649436374701316902
+    second: TopDownHouse_DoorsAndWindows_55
+  - first:
+      213: 2829891164836164891
+    second: TopDownHouse_DoorsAndWindows_56
+  - first:
+      213: 2972217288581703543
+    second: TopDownHouse_DoorsAndWindows_57
+  - first:
+      213: -8535737643057506412
+    second: TopDownHouse_DoorsAndWindows_58
+  - first:
+      213: 1640716321530461367
+    second: TopDownHouse_DoorsAndWindows_59
+  - first:
+      213: 8088112879175815617
+    second: TopDownHouse_DoorsAndWindows_60
+  - first:
+      213: -6814144990040125608
+    second: TopDownHouse_DoorsAndWindows_61
+  - first:
+      213: -1080705169239359448
+    second: TopDownHouse_DoorsAndWindows_62
+  - first:
+      213: -579404448475138348
+    second: TopDownHouse_DoorsAndWindows_63
+  - first:
+      213: -1356054618893749866
+    second: TopDownHouse_DoorsAndWindows_64
+  - first:
+      213: 5102579530078350391
+    second: TopDownHouse_DoorsAndWindows_65
+  - first:
+      213: -921237510595951909
+    second: TopDownHouse_DoorsAndWindows_66
+  - first:
+      213: 4630002935119021261
+    second: TopDownHouse_DoorsAndWindows_67
+  - first:
+      213: -7045924354096971454
+    second: TopDownHouse_DoorsAndWindows_68
+  - first:
+      213: 4072856096407474690
+    second: TopDownHouse_DoorsAndWindows_69
+  - first:
+      213: -6827815855906504693
+    second: TopDownHouse_DoorsAndWindows_70
+  - first:
+      213: -4064330747547973535
+    second: TopDownHouse_DoorsAndWindows_71
+  - first:
+      213: 1300329289419858395
+    second: TopDownHouse_DoorsAndWindows_72
+  - first:
+      213: -2084203034866525813
+    second: TopDownHouse_DoorsAndWindows_73
+  - first:
+      213: -4473629271316189498
+    second: TopDownHouse_DoorsAndWindows_74
+  - first:
+      213: 6971202926882043708
+    second: TopDownHouse_DoorsAndWindows_75
+  - first:
+      213: -8281956933716965899
+    second: TopDownHouse_DoorsAndWindows_76
+  - first:
+      213: 2593243529072839780
+    second: TopDownHouse_DoorsAndWindows_77
+  - first:
+      213: 967816772031297332
+    second: TopDownHouse_DoorsAndWindows_78
+  - first:
+      213: -1155866401553718717
+    second: TopDownHouse_DoorsAndWindows_79
+  - first:
+      213: 728736033041567456
+    second: TopDownHouse_DoorsAndWindows_80
+  - first:
+      213: 928829458613845974
+    second: TopDownHouse_DoorsAndWindows_81
+  - first:
+      213: -5162407239253191083
+    second: TopDownHouse_DoorsAndWindows_82
+  - first:
+      213: 5250587593727211103
+    second: TopDownHouse_DoorsAndWindows_83
+  - first:
+      213: -845608912327420936
+    second: TopDownHouse_DoorsAndWindows_84
+  - first:
+      213: -9120987016915126847
+    second: TopDownHouse_DoorsAndWindows_85
+  - first:
+      213: 4007367578578571736
+    second: TopDownHouse_DoorsAndWindows_86
+  - first:
+      213: 5260287479903745438
+    second: TopDownHouse_DoorsAndWindows_87
+  - first:
+      213: 2514938214912504645
+    second: TopDownHouse_DoorsAndWindows_88
+  - first:
+      213: 8837658895046989195
+    second: TopDownHouse_DoorsAndWindows_89
+  - first:
+      213: 3732976864127874986
+    second: TopDownHouse_DoorsAndWindows_90
+  - first:
+      213: -2242869096028955597
+    second: TopDownHouse_DoorsAndWindows_91
+  - first:
+      213: -2744623965049263248
+    second: TopDownHouse_DoorsAndWindows_92
+  - first:
+      213: -7824093209091335893
+    second: TopDownHouse_DoorsAndWindows_93
+  - first:
+      213: -6415968099709144515
+    second: TopDownHouse_DoorsAndWindows_94
+  - first:
+      213: 4170669061243243096
+    second: TopDownHouse_DoorsAndWindows_95
+  - first:
+      213: -3360076157300774538
+    second: TopDownHouse_DoorsAndWindows_96
+  - first:
+      213: 4552960869898041207
+    second: TopDownHouse_DoorsAndWindows_97
+  - first:
+      213: -1562118837560421076
+    second: TopDownHouse_DoorsAndWindows_98
+  - first:
+      213: -5542290890599064891
+    second: TopDownHouse_DoorsAndWindows_99
+  - first:
+      213: -5550009693815945287
+    second: TopDownHouse_DoorsAndWindows_100
+  - first:
+      213: 5704853916331305167
+    second: TopDownHouse_DoorsAndWindows_101
+  - first:
+      213: 6172717878307184444
+    second: TopDownHouse_DoorsAndWindows_102
+  - first:
+      213: -7737322155413545117
+    second: TopDownHouse_DoorsAndWindows_103
+  - first:
+      213: 7605187933868903601
+    second: TopDownHouse_DoorsAndWindows_104
+  - first:
+      213: -4403810063265267172
+    second: TopDownHouse_DoorsAndWindows_105
+  - first:
+      213: 4174989074585192722
+    second: TopDownHouse_DoorsAndWindows_106
+  - first:
+      213: -4736209697917111131
+    second: TopDownHouse_DoorsAndWindows_107
+  - first:
+      213: -3393001075935180454
+    second: TopDownHouse_DoorsAndWindows_108
+  - first:
+      213: 6693018933543619330
+    second: TopDownHouse_DoorsAndWindows_109
+  - first:
+      213: -5269779570777578388
+    second: TopDownHouse_DoorsAndWindows_110
+  - first:
+      213: 1914830872965445216
+    second: TopDownHouse_DoorsAndWindows_111
+  - first:
+      213: -1477590141836293851
+    second: TopDownHouse_DoorsAndWindows_112
+  - first:
+      213: 1599440250778931103
+    second: TopDownHouse_DoorsAndWindows_113
+  - first:
+      213: 1623370756161783056
+    second: TopDownHouse_DoorsAndWindows_114
+  - first:
+      213: 695218748661849298
+    second: TopDownHouse_DoorsAndWindows_115
+  - first:
+      213: 79768195530319247
+    second: TopDownHouse_DoorsAndWindows_116
+  - first:
+      213: 7429271086665857093
+    second: TopDownHouse_DoorsAndWindows_117
+  - first:
+      213: 2031718699373493365
+    second: TopDownHouse_DoorsAndWindows_118
+  - first:
+      213: -3521234608016207043
+    second: TopDownHouse_DoorsAndWindows_119
+  - first:
+      213: 4707539624045288263
+    second: TopDownHouse_DoorsAndWindows_120
+  - first:
+      213: 4780051858470993545
+    second: TopDownHouse_DoorsAndWindows_121
+  - first:
+      213: -4121100634855379773
+    second: TopDownHouse_DoorsAndWindows_122
+  - first:
+      213: -8498501633571913890
+    second: TopDownHouse_DoorsAndWindows_123
+  - first:
+      213: 2919999681196812824
+    second: TopDownHouse_DoorsAndWindows_124
+  - first:
+      213: -4526435591644356317
+    second: TopDownHouse_DoorsAndWindows_125
+  - first:
+      213: 4142666764932662095
+    second: TopDownHouse_DoorsAndWindows_126
+  - first:
+      213: -3601990297113548856
+    second: TopDownHouse_DoorsAndWindows_127
+  - first:
+      213: 923611332471898099
+    second: TopDownHouse_DoorsAndWindows_128
+  - first:
+      213: -212601514029536726
+    second: TopDownHouse_DoorsAndWindows_129
+  - first:
+      213: 501493871875101383
+    second: TopDownHouse_DoorsAndWindows_130
+  - first:
+      213: 6949731818706891371
+    second: TopDownHouse_DoorsAndWindows_131
+  - first:
+      213: -3169658961485977722
+    second: TopDownHouse_DoorsAndWindows_132
+  - first:
+      213: -2534099453456904045
+    second: TopDownHouse_DoorsAndWindows_133
+  - first:
+      213: -7232039502356491687
+    second: TopDownHouse_DoorsAndWindows_134
+  - first:
+      213: 7068084908278250955
+    second: TopDownHouse_DoorsAndWindows_135
+  - first:
+      213: 2169128614455641508
+    second: TopDownHouse_DoorsAndWindows_136
+  - first:
+      213: 1284219044385302833
+    second: TopDownHouse_DoorsAndWindows_137
+  - first:
+      213: -4174551560297683839
+    second: TopDownHouse_DoorsAndWindows_138
+  - first:
+      213: -4319624734150165735
+    second: TopDownHouse_DoorsAndWindows_139
+  - first:
+      213: -6639633037862271187
+    second: TopDownHouse_DoorsAndWindows_140
+  - first:
+      213: 5936896719923790605
+    second: TopDownHouse_DoorsAndWindows_141
+  - first:
+      213: 6078103184317427863
+    second: TopDownHouse_DoorsAndWindows_142
+  - first:
+      213: -3757187696318297277
+    second: TopDownHouse_DoorsAndWindows_143
+  - first:
+      213: 2879830390577739947
+    second: TopDownHouse_DoorsAndWindows_144
+  - first:
+      213: -1087624344641997703
+    second: TopDownHouse_DoorsAndWindows_145
+  - first:
+      213: 6029016184166510786
+    second: TopDownHouse_DoorsAndWindows_146
+  - first:
+      213: 1953819082384585879
+    second: TopDownHouse_DoorsAndWindows_147
+  - first:
+      213: -633731096485267077
+    second: TopDownHouse_DoorsAndWindows_148
+  - first:
+      213: 3014778117375116528
+    second: TopDownHouse_DoorsAndWindows_149
+  - first:
+      213: -936088571507408416
+    second: TopDownHouse_DoorsAndWindows_150
+  - first:
+      213: -5720910435122009524
+    second: TopDownHouse_DoorsAndWindows_151
+  - first:
+      213: 1545141115420285046
+    second: TopDownHouse_DoorsAndWindows_152
+  - first:
+      213: -4267034349204361277
+    second: TopDownHouse_DoorsAndWindows_153
+  - first:
+      213: 23661097556190709
+    second: TopDownHouse_DoorsAndWindows_154
+  - first:
+      213: -28143091830943110
+    second: TopDownHouse_DoorsAndWindows_155
+  - first:
+      213: 4018277341001457560
+    second: TopDownHouse_DoorsAndWindows_156
+  - first:
+      213: 1342369701667081478
+    second: TopDownHouse_DoorsAndWindows_157
+  - first:
+      213: 6856105802187545695
+    second: TopDownHouse_DoorsAndWindows_158
+  - first:
+      213: -5636553589403226990
+    second: TopDownHouse_DoorsAndWindows_159
+  - first:
+      213: -7728269354305910453
+    second: TopDownHouse_DoorsAndWindows_160
+  - first:
+      213: -7911238798884266620
+    second: TopDownHouse_DoorsAndWindows_161
+  - first:
+      213: -4060737631565532418
+    second: TopDownHouse_DoorsAndWindows_162
+  - first:
+      213: 6563057130417053921
+    second: TopDownHouse_DoorsAndWindows_163
+  - first:
+      213: -2251772803954189469
+    second: TopDownHouse_DoorsAndWindows_164
+  - first:
+      213: -9222859484887978418
+    second: TopDownHouse_DoorsAndWindows_165
+  - first:
+      213: -3621760351025609960
+    second: TopDownHouse_DoorsAndWindows_166
+  - first:
+      213: 2591216351456303956
+    second: TopDownHouse_DoorsAndWindows_167
+  - first:
+      213: 3992836139275648309
+    second: TopDownHouse_DoorsAndWindows_168
+  - first:
+      213: 8783256749302556605
+    second: TopDownHouse_DoorsAndWindows_169
+  - first:
+      213: 1308140865268580714
+    second: TopDownHouse_DoorsAndWindows_170
+  - first:
+      213: 8632902572084482361
+    second: TopDownHouse_DoorsAndWindows_171
+  - first:
+      213: 6289670310148276517
+    second: TopDownHouse_DoorsAndWindows_172
+  - first:
+      213: -7940449299513172662
+    second: TopDownHouse_DoorsAndWindows_173
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f02b79a8f07e490800000000000000
+      internalID: -7717182348551123086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9985ae1ecb2214a50800000000000000
+      internalID: 6503517531539134617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26775b16b4dd7fae0800000000000000
+      internalID: -1515499433755314334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 112
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ad2c8c6734b6b0800000000000000
+      internalID: -5281535523650951238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 109
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d6a4bcf9ae8f60800000000000000
+      internalID: 8038549287730599701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 112
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b8e1ccc97050380800000000000000
+      internalID: -9005783509836592296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 112
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661d4135537ac20b0800000000000000
+      internalID: -5752038776589987482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 109
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e3b454749cbea10800000000000000
+      internalID: 1939865372455550518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 81
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d3583c629fb2690800000000000000
+      internalID: -7625727599137440512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 80
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f35c78b66e80330800000000000000
+      internalID: 3677442445261750078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 80
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31981b08ae110ac00800000000000000
+      internalID: 909746823607978259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 81
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf9dc40cfe59120800000000000000
+      internalID: 2420103983983623380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 80
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b402e1660ebeffcc0800000000000000
+      internalID: -3674959421892583349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 80
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa980141b6fd8550800000000000000
+      internalID: 6164854706100804260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e6ec7bfbe58750800000000000000
+      internalID: 6306706318567073795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13846e5eedf895e0800000000000000
+      internalID: -1902491642336345318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 29
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d3ea3e1c3d70170800000000000000
+      internalID: 8144711280824827234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 32
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc47f6f559ebd8b0800000000000000
+      internalID: -5126247195406283581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 32
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8b1a9883a00e0f0800000000000000
+      internalID: -1089859871880136543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 29
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad0fa21ea51786d0800000000000000
+      internalID: -2988395990355079769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e405ce352cd2f9840800000000000000
+      internalID: 5232951604682707022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e72fa979c68290800000000000000
+      internalID: -7888396172825992677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5cda2adbe840c30800000000000000
+      internalID: 4324738487311779256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dae2eac25e242e10800000000000000
+      internalID: 2171911853425486546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3626c2f7dd7bd0190800000000000000
+      internalID: -7994531601563491741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc41c95232fe52b10800000000000000
+      internalID: 1956232547396228299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57531d3b51cc203f0800000000000000
+      internalID: -935961378956429963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopDownHouse_DoorsAndWindows_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7ccb0563bc5fb0800000000000000
+      internalID: -4657650668036915483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TopDownHouse_DoorsAndWindows_0: -7717182348551123086
+      TopDownHouse_DoorsAndWindows_1: 6503517531539134617
+      TopDownHouse_DoorsAndWindows_10: 909746823607978259
+      TopDownHouse_DoorsAndWindows_11: 2420103983983623380
+      TopDownHouse_DoorsAndWindows_12: -3674959421892583349
+      TopDownHouse_DoorsAndWindows_13: 6164854706100804260
+      TopDownHouse_DoorsAndWindows_14: 6306706318567073795
+      TopDownHouse_DoorsAndWindows_15: -1902491642336345318
+      TopDownHouse_DoorsAndWindows_16: 8144711280824827234
+      TopDownHouse_DoorsAndWindows_17: -5126247195406283581
+      TopDownHouse_DoorsAndWindows_18: -1089859871880136543
+      TopDownHouse_DoorsAndWindows_19: -2988395990355079769
+      TopDownHouse_DoorsAndWindows_2: -1515499433755314334
+      TopDownHouse_DoorsAndWindows_20: 5232951604682707022
+      TopDownHouse_DoorsAndWindows_21: -7888396172825992677
+      TopDownHouse_DoorsAndWindows_22: 4324738487311779256
+      TopDownHouse_DoorsAndWindows_23: 2171911853425486546
+      TopDownHouse_DoorsAndWindows_24: -7994531601563491741
+      TopDownHouse_DoorsAndWindows_25: 1956232547396228299
+      TopDownHouse_DoorsAndWindows_26: -935961378956429963
+      TopDownHouse_DoorsAndWindows_27: -4657650668036915483
+      TopDownHouse_DoorsAndWindows_3: -5281535523650951238
+      TopDownHouse_DoorsAndWindows_4: 8038549287730599701
+      TopDownHouse_DoorsAndWindows_5: -9005783509836592296
+      TopDownHouse_DoorsAndWindows_6: -5752038776589987482
+      TopDownHouse_DoorsAndWindows_7: 1939865372455550518
+      TopDownHouse_DoorsAndWindows_8: -7625727599137440512
+      TopDownHouse_DoorsAndWindows_9: 3677442445261750078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
